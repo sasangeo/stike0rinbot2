@@ -32,7 +32,6 @@ handler.all = async function (m, { isBlocked }) {
 ├ 30 Hari / Rp 10,000
 └────
 
-https://github.com/ariffb25/stikerinbot
 `.trim(), '© stikerin', 'Pemilik Bot', ',owner', m)
     }
 
